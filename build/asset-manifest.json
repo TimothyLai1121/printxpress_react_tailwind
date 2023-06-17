@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/printxpress_react_tailwind/static/css/main.4026750d.css",
+    "main.js": "/printxpress_react_tailwind/static/js/main.bed18c86.js",
+    "static/media/flyer.png": "/printxpress_react_tailwind/static/media/flyer.d1c8ee2d397dada2c541.png",
+    "static/media/laminate.png": "/printxpress_react_tailwind/static/media/laminate.073dd91d2fc946af5b3d.png",
+    "static/media/business.png": "/printxpress_react_tailwind/static/media/business.bfe6f5a7f2d5dac00cbf.png",
+    "static/media/printing.jpg": "/printxpress_react_tailwind/static/media/printing.8824c7fd3658a553b2a9.jpg",
+    "index.html": "/printxpress_react_tailwind/index.html",
+    "main.4026750d.css.map": "/printxpress_react_tailwind/static/css/main.4026750d.css.map",
+    "main.bed18c86.js.map": "/printxpress_react_tailwind/static/js/main.bed18c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4026750d.css",
+    "static/js/main.bed18c86.js"
+  ]
+}
